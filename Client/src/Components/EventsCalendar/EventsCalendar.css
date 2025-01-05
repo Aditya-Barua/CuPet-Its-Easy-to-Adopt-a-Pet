@@ -1,0 +1,20 @@
+.events-calendar {
+    margin: 20px auto;
+    text-align: center;
+  }
+  
+  .event-highlight {
+    background-color: #ffa;
+    border-radius: 50%;
+    width: 8px;
+    height: 8px;
+    margin: auto;
+  }
+  
+  .event-card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #f9f9f9;
+  }
+  
